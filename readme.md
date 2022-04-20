@@ -3,10 +3,6 @@
 ## 有任何问题通过issue提问
 
 ## 快速使用
-### 电脑端
-[点这里](https://blog.fakev.cn/posts/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%84%9A%E6%9C%AC%E5%AE%89%E8%A3%85%E5%91%BD%E4%BB%A4%E8%A1%8C/)
-### 手机端
-[点这里](https://blog.fakev.cn/posts/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%84%9A%E6%9C%AC%E5%AE%89%E8%A3%85%E6%89%8B%E6%9C%BA%E5%91%BD%E4%BB%A4%E8%A1%8C/)
 
 ## 通过node使用
 ①
