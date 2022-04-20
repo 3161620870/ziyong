@@ -18,7 +18,7 @@ git clone https://github.com/3161620870/ziyong
 ②
 
 ```
-cd chaoxing-xuexitong-autoflush   (到程序目录底下)
+cd ziyong   (到程序目录底下)
 ```
 
 ③
